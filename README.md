@@ -5,6 +5,6 @@
 - 🐤 You can find me on Twitter at https://twitter.com/cjaynjoku
 - 😄 Pronouns: He/Him
 
-![](https://github-readme-stats.vercel.app/api?username=cjaynjoku)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjaynjoku)
+|(https://github-readme-stats.vercel.app/api?username=cjaynjoku)|
+|(https://github-readme-stats.vercel.app/api/top-langs/?username=cjaynjoku)|
 

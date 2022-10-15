@@ -5,6 +5,6 @@
 - 🐤 You can find me on Twitter at https://twitter.com/cjaynjoku
 - 😄 Pronouns: He/Him
 
-|(https://github-readme-stats.vercel.app/api?username=cjaynjoku)|
-|(https://github-readme-stats.vercel.app/api/top-langs/?username=cjaynjoku)|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjaynjoku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Januarius' github stats" /></a> | <a href="https://github.com/cjaynjoku/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjaynjoku&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 

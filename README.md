@@ -1,7 +1,7 @@
 ### Hi, I'm Januarius Njoku, web developer and huge fan of Microsoft 👋
 
 - 🎬 I'm working on an ASP.NET Core MVC 6 app called footbadges
-- ✍️ Check out my technical and non-technical writiings at [My blog](https://jennaro.hashnode.dev)
+- ✍️ Check out my technical and non-technical writiings at [my blog](https://jennaro.hashnode.dev)
 - 🐤 You can find me on Twitter at https://twitter.com/cjaynjoku
 - 😄 Pronouns: He/Him
 

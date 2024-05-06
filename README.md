@@ -1,6 +1,6 @@
 ### Hi, I'm Januarius Njoku 👋
 
-- ✍️ Check out my technical writings at [my blog](https://code-maze.com/author/njokujennaro/)
+- ✍️ Check out my technical articles at [Code-Maze](https://code-maze.com/author/njokujennaro/)
 - 🐤 You can find me on Twitter at https://twitter.com/cjaynjoku
 - :sunglasses: Pronouns: He/Him
 
